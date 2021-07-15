@@ -7,7 +7,7 @@ Yazılım Geliştiricisiyim
 <a href="https://furkanlapcin.com"><img alt="furkanlapcin.com" src="https://img.shields.io/website?label=furkanlapcin.com&style=for-the-badge&url=https%3A%2F%2Ffurkanlapcin.com"></a>
 </h3>
 <h3 align="center">
-## Languages and Tools
+Languages and Tools
     
     </h3>
 <p align="center">
