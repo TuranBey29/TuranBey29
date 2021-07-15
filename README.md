@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Umut 🥳</h1>
+<h1 align="center">Merhaba 👋, Ben Furkan 🥳</h1>
 <h3 align="center">
-I'm Software Developer<br/><br/>
+Yazılım Geliştiricisiyim <br/><br/>
 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=umtynkk.umtynkk??style=for-the-badge&logo=appveyor"></a><br/>
 <a href="https://furkanlapcin.com"><img alt="furkanlapcin.com" src="https://img.shields.io/website?label=furkanlapcin.com&style=for-the-badge&url=https%3A%2F%2Ffurkanlapcin.com"></a>
 </h3>
