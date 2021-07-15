@@ -13,7 +13,6 @@ Yazılım Geliştiricisiyim
     <a href="https://github.com/turanbey29"><img alt="C#" src="https://img.shields.io/badge/csharp%20-%23E34F26.svg?logo=csharp&logoColor=white"></a>
 </p>
 ## Connect With Me
-</hr>
 <p align="center">
     <a href="https://instagram.com/furkanlapcin"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23777BB4.svg?logo=instagram&logoColor=white"></a>
     <a href="https://github.com/turanbey29"><img alt="Github" src="https://img.shields.io/badge/Github-%2314354C.svg?logo=github&logoColor=white"></a>
