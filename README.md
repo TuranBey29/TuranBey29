@@ -14,10 +14,11 @@ Yazılım Geliştiricisiyim <br/><br/>
 
 ## İletişim
 
-<p align="center">
-    <h4 align="center">
+<h4 align="center">
         iletisim@furkanlapcin.com
-        </h4>
+</h4>
+
+<p align="center">
     <a href="https://instagram.com/furkanlapcin"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23777BB4.svg?logo=instagram&logoColor=white"></a>
     <a href="https://github.com/turanbey29"><img alt="Github" src="https://img.shields.io/badge/Github-%2314354C.svg?logo=github&logoColor=white"></a>
 </p>
