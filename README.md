@@ -10,7 +10,7 @@ Yazılım Geliştiricisiyim <br/><br/>
     <a href="https://github.com/turanbey29"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/turanbey29"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/turanbey29"><img alt="C#" src="https://img.shields.io/badge/csharp%20-%23E34F26.svg?logo=csharp&logoColor=white"></a>
-    <a href="https://github.com/turanbey29"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=appveyor&logo=php&logoColor=white"></a>
+    <a href="https://github.com/turanbey29"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&&logo=php&logoColor=white"></a>
 </p>
 
 ## İletişim
