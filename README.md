@@ -16,7 +16,7 @@ Yazılım Geliştiricisiyim <br/><br/>
 ## İletişim
 
 <h4 align="center">
-        iletisim@furkanlapcin.com
+        furkanlapcin@gmail.com
 </h4>
 
 <p align="center">
