@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Furkan Lapçin</h1>
+<h1 align="center">👋 Merhaba, ben Furkan Lapcin</h1>
 <p align="center">Full Stack Developer | .NET & React | Üretmeyi seven bir yazılımcı</p>
 
 <p align="center">
