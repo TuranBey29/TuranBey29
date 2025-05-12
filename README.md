@@ -32,9 +32,9 @@
 
 ## 📫 Bana Ulaş
 
-- 🌐 **Websitem:** [furkanlapcin.com](https://furkanlapcin.com)
+- 🌐 **Websitem:** [furkanlapcin.com](https://furkanlapcin.com) (Şuanlık aktif değil yakında sizlerle :))
 - 📩 **Mail:** furkanlapcin@gmail.com
-- 💼 **LinkedIn:** [Furkan Lapçin](https://linkedin.com/in/furkanlapcin)
+- 💼 **LinkedIn:** [Furkan Lapcin](https://www.linkedin.com/in/furkan-lapcin-8542b4221/)
 
 ---
 
