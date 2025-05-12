@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Core-%236C3483?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
 </p>
