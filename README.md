@@ -1,5 +1,5 @@
 <h1 align="center">👋 Merhaba, ben Furkan Lapcin</h1>
-<p align="center">Full Stack Developer | .NET & React | Üretmeyi seven bir yazılımcı</p>
+<p align="center">Full Stack Developer | .NET & Angular & React | Üretmeyi seven bir yazılımcı</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Core-%236C3483?style=for-the-badge&logo=dotnet&logoColor=white" />
